@@ -1,0 +1,13 @@
+/data/input/*
+/data/output/*
+!/data/input/.gitkeep
+!/data/output/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.log
+logs/
+airflow.db
